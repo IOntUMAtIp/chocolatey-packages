@@ -16,7 +16,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://wereturtle.github.io/ghostwriter/images/ghostwriter.svg</iconUrl>
     <releaseNotes>https://github.com/wereturtle/ghostwriter/blob/master/CHANGELOG.md</releaseNotes>
-    <packageSourceUrl>https://github.com/TakataSanshiro/Chocolatey-Packages/tree/master/actiona</packageSourceUrl>
+    <packageSourceUrl>https://github.com/IOntUMAtIp/chocolatey-packages/tree/main/ghostwriter</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
